@@ -12,4 +12,7 @@
         grid-template-columns: repeat(3, 20vw);
         grid-template-rows: repeat(3, 20vw);
     }
+    .f1{
+        margin-top: 162px;
+    }
 }
